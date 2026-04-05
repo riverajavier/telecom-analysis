@@ -46,5 +46,5 @@ Se trabajó con tres datasets: planes, usuarios y uso real de llamadas y mensaje
 
 **Proyecto realizado como parte del Sprint 7 - Análisis de Datos**
 
-Autor: [Tu Nombre]
+Autor: JAVIER RAMOS RIVERA
 Fecha: Abril 2026
